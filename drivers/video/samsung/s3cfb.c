@@ -50,6 +50,7 @@
 #if defined(CONFIG_MACH_WAVE)
 #include "s8500-logo.h"
 #include "s8530-logo.h"
+
 #endif
 #ifdef CONFIG_FB_S3C_MDNIE
 #include "s3cfb_mdnie.h"
